@@ -1,0 +1,26 @@
+Anteater
+Bat
+Cat
+Dog
+Elephant
+Frog
+Giraffe
+Horse
+Iguana
+Jellyfish
+Kangaroo
+Lammer
+Monkey
+Newt
+Octopus
+Possum
+Quail
+Rabbit
+Shark
+Turtle
+Uakari
+Vulture
+Wombat
+X-Ray Tetra
+Yak
+Zebra
