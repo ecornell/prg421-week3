@@ -17,7 +17,7 @@
  *  -> Read animal.txt file into Animal collection
  *  -> Use an iterator to loop though and display animals in collection
  *
- * Input: Console
+ * Input: animals.txt file
  * Output: Console
  */
 

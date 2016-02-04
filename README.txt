@@ -18,7 +18,7 @@ Program Flow:
 
 Program Flow:
 
-Input: Console
+Input: animals.txt file
 Output: Console
 
 

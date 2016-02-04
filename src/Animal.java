@@ -7,12 +7,22 @@
 
 public class Animal {
 
+    /**
+     * Animal name
+     */
     private String name;
 
+    /**
+     * Default constructor
+     * @param name Animal name
+     */
     public Animal(String name) {
         this.name = name;
     }
 
+    /**
+     * @return Animal name
+     */
     public String getName() {
         return name;
     }
